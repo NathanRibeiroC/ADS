@@ -33,3 +33,4 @@
 
 ### Graph comparision
 Based on this graph, we might rate the various Big O values (very subjectively) like this: O(1) is excellent, O(log N) is good, O(N) is fair, and O(N2) is poor. 
+![02fig09](https://user-images.githubusercontent.com/80288857/149041423-26594230-29a1-4ee6-b7d6-71103898faf6.jpg)
