@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.23"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "DATA_STRUCTURES",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "DATA_STRUCTURES::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-DATA_STRUCTURES-Debug-5cdcf1d89a3a1d6182db.json",
+					"name" : "DATA_STRUCTURES",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/nribe/OneDrive/Documents/Repos/ADS/ADS_CPP/DATA_STRUCTURES/cmake-build-debug",
+		"source" : "C:/Users/nribe/OneDrive/Documents/Repos/ADS/ADS_CPP/DATA_STRUCTURES"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}
