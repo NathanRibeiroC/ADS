@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.23"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "MAXIMUM_SUBARRAY_SUM",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "MAXIMUM_SUBARRAY_SUM::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-MAXIMUM_SUBARRAY_SUM-Debug-b18c69c0a3eccb7ed15a.json",
+					"name" : "MAXIMUM_SUBARRAY_SUM",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/nribe/OneDrive/Documents/Repos/ADS/ADS_CPP/MAXIMUM_SUBARRAY_SUM/cmake-build-debug",
+		"source" : "C:/Users/nribe/OneDrive/Documents/Repos/ADS/ADS_CPP/MAXIMUM_SUBARRAY_SUM"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

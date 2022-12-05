@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.23"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "DYNAMIC_PROGRAMMING",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "DYNAMIC_PROGRAMMING::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-DYNAMIC_PROGRAMMING-Debug-2a7db99fae2e8edc5fc8.json",
+					"name" : "DYNAMIC_PROGRAMMING",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/nribe/OneDrive/Documents/Repos/ADS/ADS_CPP/DYNAMIC_PROGRAMMING/cmake-build-debug",
+		"source" : "C:/Users/nribe/OneDrive/Documents/Repos/ADS/ADS_CPP/DYNAMIC_PROGRAMMING"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

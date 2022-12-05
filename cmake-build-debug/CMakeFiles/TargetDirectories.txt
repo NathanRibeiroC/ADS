@@ -1,0 +1,3 @@
+C:/Users/nribe/OneDrive/Documents/Repos/ADS/cmake-build-debug/CMakeFiles/ADS.dir
+C:/Users/nribe/OneDrive/Documents/Repos/ADS/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/nribe/OneDrive/Documents/Repos/ADS/cmake-build-debug/CMakeFiles/rebuild_cache.dir
